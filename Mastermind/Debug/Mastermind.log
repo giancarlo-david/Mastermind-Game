@@ -1,0 +1,4 @@
+﻿  Mastermind.cpp
+c:\users\gian\documents\visual studio 2015\projects\mastermind\mastermind\mastermind.cpp(68): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Mastermind.vcxproj -> C:\Users\Gian\Documents\Visual Studio 2015\Projects\Mastermind\Debug\Mastermind.exe
+  Mastermind.vcxproj -> C:\Users\Gian\Documents\Visual Studio 2015\Projects\Mastermind\Debug\Mastermind.pdb (Partial PDB)

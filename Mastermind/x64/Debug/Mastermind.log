@@ -1,0 +1,3 @@
+﻿  Mastermind.cpp
+c:\users\gianc\documents\writing code\mastermind\mastermind\mastermind.cpp(68): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Mastermind.vcxproj -> C:\Users\gianc\Documents\Writing Code\Mastermind\x64\Debug\Mastermind.exe
